@@ -20,8 +20,9 @@ export default function Home() {
         <Experience />
         <Resources />
         <Rewards />
-  
+        <Testimonials/>
       </main>
+      <Footer/>
 
     </>
   );
